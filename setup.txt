@@ -1,0 +1,8 @@
+
+#Please run npm install or run the below npm modules separately
+#'npm install' command will automatically install the required modules in the code
+npm install express
+npm install body-parser
+npm install express-prettify
+npm install mongodb
+##START your app by node server.js
